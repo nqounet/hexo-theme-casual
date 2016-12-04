@@ -4,17 +4,12 @@
   h3.ui.inverted.aligned.icon.header
     .content
       a.title-link(href=url_for())
-        != config.title.toUpperCase()
+        != config.title
 
   .h50
 
   .side-nav
     include nav
-
-  .item
-    .ui.inverted.transparent.icon.input
-      input(type="text" class="st-default-search-input" placeholder="Search...")
-      i.search.icon
 
   .h50
 

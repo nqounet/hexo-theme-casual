@@ -7,24 +7,23 @@ menu:
 
 avatar: /avatar.png
 favicon: /favicon.png
-aboutme: 朝着前端打怪升级中 | 目前从事闪存产品的固件和测试工具开发工作 | 多特蒙德死忠
+aboutme: Beer, Perl, Kansai.pm
 
 social:
-  github: http://github.com/littlewin-wang
-  twitter: http://twitter.com/littlewin_wang
-  weibo: http://weibo.com/fredinweibo
+  github: http://github.com/nqounet
+  twitter: http://twitter.com/nqounet
+  facebook: https://www.facebook.com/nobutaka.wakabayashi
 
 # Comment
 # e.g disqus: seansun
 disqus:
-duoshuo: littlewin
+duoshuo:
 
 # Search
-swift_search: true
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: UA-3538047-6
 
 # Copyright Infomation
 startyear: 2016
