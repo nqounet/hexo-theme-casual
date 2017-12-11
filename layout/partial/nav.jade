@@ -1,6 +1,6 @@
 each value, key in theme.menu
   - var re = /^(http|https):\/\/*/gi;
-  - var tar = re.test(value) ? "_blank" : "_self"
-  a.item(href=value target=tar)
+  - var tar = re.test(value.url) ? "_blank" : "_self"
+  a.item(href=value.url target=tar)
     != key.toUpperCase()
-    i(class='icon #{key}')
+    i(class='icon #{value.icon}')

@@ -1,9 +1,19 @@
 menu:
-  home: /
-  archive: /archives
-  tags: /tags
-  info: /about
-  rss: /atom.xml
+  home:
+      url: /
+      icon: home
+  archives:
+      url: /archives
+      icon: archive
+  tags:
+      url: /tags
+      icon: tags
+  info:
+      url: /about
+      icon: info
+  feed:
+      url: /atom.xml
+      icon: rss
 
 avatar: /avatar.png
 favicon: /favicon.png
