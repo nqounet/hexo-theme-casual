@@ -22,7 +22,7 @@ aboutme: Beer, Perl, Kansai.pm
 social:
   github: http://github.com/nqounet
   twitter: http://twitter.com/nqounet
-  facebook: https://www.facebook.com/nobutaka.wakabayashi
+  # facebook: https://www.facebook.com/nobutaka.wakabayashi
 
 # Comment
 # e.g disqus: seansun
