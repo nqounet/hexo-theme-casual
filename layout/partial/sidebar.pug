@@ -34,4 +34,4 @@
         - var re = /^(http|https):\/\/*/gi;
         - var tar = re.test(value) ? "_blank" : "_self"
         a.social-link(href=value target=tar)
-          i(class='icon #{key}')
+          i(class=['icon', key])

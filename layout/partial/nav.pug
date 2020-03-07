@@ -3,4 +3,4 @@ each value, key in theme.menu
   - var tar = re.test(value.url) ? "_blank" : "_self"
   a.item(href=value.url target=tar)
     != key.toUpperCase()
-    i(class='icon #{value.icon}')
+    i(class=['icon', value.icon])
